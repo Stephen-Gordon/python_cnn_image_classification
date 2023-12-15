@@ -1,5 +1,5 @@
 
-![[Pasted image 20231215133849.png]](./Pasted image 20231215133849.png)
+![[Pasted image 20231215133849.png]](./"Pasted image 20231215133849.png")
 - Doubling up layers in the base model gets 73% accuracy
 ---
 
