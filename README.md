@@ -2,7 +2,7 @@
 Building an image classification CNN using Keras, and the CIFAR-10 dataset. The benchmark model was 70% accuracy. Managed to increase the accuracy up to 80%.
 
 ## Python File
-[python_cnn_image_classification.ipynb](https://github.com/Stephen-Gordon/python_cnn_image_classification/blob/main/image_classification_functional.ipynb)
+[python_cnn_image_classification.ipynb](https://github.com/Stephen-Gordon/python_cnn_image_classification/blob/main/image_classification.ipynb)
 
 ## Model 1 Explanation
 [Model 1.pdf](https://github.com/Stephen-Gordon/python_cnn_image_classification/blob/main/Model%201.pdf)
