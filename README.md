@@ -3,6 +3,10 @@ Building an image classification CNN using Keras, and the CIFAR-10 dataset.
 The benchmark model was 70% accuracy.
 Managed to increase the accuracy up to 80%.
 
+## 
+Python File
+https://github.com/Stephen-Gordon/python_cnn_image_classification/blob/main/image_classification_functional.ipynb
+
 ## Key Takeaways
 - start with changing the dropout layers
 - look at the VGG architecture
