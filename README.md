@@ -11,9 +11,9 @@ Building an image classification CNN using Keras, and the CIFAR-10 dataset. The 
 [Model 2.pdf](https://github.com/Stephen-Gordon/python_cnn_image_classification/blob/main/Model%202.pdf)
 
 ## Key Takeaways
-- start with changing the dropout layers
-- look at the VGG architecture
-- only use dropout and augmentation to stop overfitting 
+- Start with changing the dropout layers
+- Look at the VGG architecture
+- Use dropout and augmentation layers to stop overfitting 
 
 ## Useful links & Notebooks
 
